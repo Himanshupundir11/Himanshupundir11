@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Himanshu Pundir
+#  Hi, I'm Himanshu Pundir
 
 🎓 PG Diploma Student in Bioinformatics | Aspiring Biotechnology Researcher  
 🧬 Passionate about computational biology, drug discovery, and precision medicine  
-💡 Currently working on projects in **epigenetics**, **aging**, and **network pharmacology**
+💡 Currently working on projects on epigenetics aging
 
 ---
 
@@ -12,6 +12,7 @@ I’m a bioinformatics enthusiast with a background in biotechnology and a stron
 - Molecular docking and ADME profiling of natural compounds  
 - Network pharmacology approaches for drug repurposing  
 - Target prediction tools & cheminformatics workflows
+- A full time invester across India, USA Markets
 
 ---
 
