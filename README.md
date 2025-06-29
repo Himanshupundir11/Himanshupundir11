@@ -1,6 +1,6 @@
 #  Hi, I'm Himanshu Pundir
 
-🎓 PG Diploma Student in Bioinformatics | Aspiring Biotechnology Researcher  
+🎓 PG in Bioinformatics | Aspiring Biotechnology Researcher  
 🧬 Passionate about computational biology, drug discovery, and precision medicine  
 💡 Currently working on projects on epigenetics aging
 
